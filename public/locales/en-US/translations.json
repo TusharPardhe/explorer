@@ -141,6 +141,7 @@
   "transaction_SignerListSet": "Signer List Set",
   "transaction_TicketCreate": "Ticket Create",
   "transaction_TrustSet": "Trust Set",
+  "transaction_SidechainXChainAccountCreate": "XChain Account Create",
   "transaction_XChainClaim": "XChain Claim",
   "transaction_XChainCommit": "XChain Commit",
   "transaction_XChainCreateBridge": "XChain Create Bridge",
@@ -369,5 +370,6 @@
   "sell_offers":"Sell Offers",
   "offer_index": "Offer ID",
   "owner": "Owner's Account",
-  "no_additional_info":"No additional information"
+  "no_additional_info":"No additional information",
+  "other_chain_destination": "Other Chain Destination"
 }
